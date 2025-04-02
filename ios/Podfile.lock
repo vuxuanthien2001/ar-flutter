@@ -1,0 +1,54 @@
+PODS:
+  - arkit_plugin (0.0.1):
+    - Flutter
+    - GLTFSceneKit
+  - camera_avfoundation (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - GLTFSceneKit (0.3.0)
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - sensors_plus (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - arkit_plugin (from `.symlinks/plugins/arkit_plugin/ios`)
+  - camera_avfoundation (from `.symlinks/plugins/camera_avfoundation/ios`)
+  - Flutter (from `Flutter`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - sensors_plus (from `.symlinks/plugins/sensors_plus/ios`)
+
+SPEC REPOS:
+  trunk:
+    - GLTFSceneKit
+
+EXTERNAL SOURCES:
+  arkit_plugin:
+    :path: ".symlinks/plugins/arkit_plugin/ios"
+  camera_avfoundation:
+    :path: ".symlinks/plugins/camera_avfoundation/ios"
+  Flutter:
+    :path: Flutter
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  sensors_plus:
+    :path: ".symlinks/plugins/sensors_plus/ios"
+
+SPEC CHECKSUMS:
+  arkit_plugin: bb56e71ef215147316ecf3774d5cb74beda20a10
+  camera_avfoundation: 8b8d780bcfb6a4a02b0fbe2b4bd17b5b71946e68
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  GLTFSceneKit: d1b437c514ba2aed5555afb0fddd64e030612d57
+  image_picker_ios: 99dfe1854b4fa34d0364e74a78448a0151025425
+  path_provider_foundation: 3784922295ac71e43754bd15e0653ccfd36a147c
+  sensors_plus: 42b9de1b8237675fa8d8121e4bb93be0f79fa61d
+
+PODFILE CHECKSUM: 6b9eb94e9f98a329f2ef624b852a6e42d090af2b
+
+COCOAPODS: 1.14.2
